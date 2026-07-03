@@ -1,4 +1,4 @@
-# nyri0f8
+
 <h1 align="center">Hey, I'm Varun 👋</h1>
 <h3 align="center">Embedded Systems & Edge AI Engineer • Full-Stack Builder • Polymath</h3>
 
