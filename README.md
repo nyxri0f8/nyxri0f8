@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey, I'm Varun 👋</h1>
 <h3 align="center">Embedded Systems & Edge AI Engineer • Full-Stack Builder • Polymath</h3>
 
@@ -90,15 +89,37 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nyxri0f8/nyxri0f8/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+</p>
+
+> ⚙️ This animates automatically once the snake workflow is added — see setup note at the bottom.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyxri0f8&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nyxri0f8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxri0f8&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxri0f8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxri0f8&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Langs" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxri0f8&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nyxri0f8&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 </p>
 
 ---
@@ -110,3 +131,14 @@
 </p>
 
 <p align="center"><i>polymath — learns fast across domains, builds hands-on, ships real things.</i></p>
+
+---
+
+<details>
+<summary>⚙️ Setup notes (for you, not visible as important to visitors)</summary>
+
+**Snake animation:** Add the included `snake.yml` to `.github/workflows/` in your `nyxri0f8/nyxri0f8` repo, then run it once manually from the Actions tab (or push a commit). It builds an `output` branch with the SVGs the README already points to — after that it auto-refreshes daily.
+
+**Everything else** (stats, streak, top langs, activity graph, trophies) is fully automatic — no setup needed, they pull live from your public GitHub activity.
+
+</details>
