@@ -1,144 +1,160 @@
-<h1 align="center">Hey, I'm Varun 👋</h1>
-<h3 align="center">Embedded Systems & Edge AI Engineer • Full-Stack Builder • Polymath</h3>
+<!-- ═══════════════════════════ NYX // SYSTEM PROFILE ═══════════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=CTO+%40+Fitti+%7C+Co-Founder+%40+EcoLith;ECE+Student+%40+RIT+Chennai;Building+edge+AI%2C+IIoT+%26+full-stack+systems;White-hat+security+%2B+defence-tech+background" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/varun-ecerit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/nyxri0f8"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0f2c,100:00f7ff&height=220&section=header&text=VARUN%20%2F%2F%20NYX&fontSize=58&fontColor=00f7ff&fontAlignY=38&desc=edge%20ai%20%E2%80%A2%20embedded%20systems%20%E2%80%A2%20full-stack%20%E2%80%A2%20defence%20tech&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=720&lines=%3E+initializing+neural+link...;%3E+CTO+%40+Fitti+%2F%2F+Co-Founder+%40+EcoLith;%3E+ECE+%40+Rajalakshmi+Institute+of+Technology;%3E+shipping+AI+onto+256MB+of+RAM;%3E+target%3A+intelligent+defence+systems_" alt="typing"/>
 
-### 🧠 About Me
+<br/>
 
-- 🎓 3rd-year **Electronics & Communication Engineering** student at **Rajalakshmi Institute of Technology**, Chennai (Batch 2024–2028)
-- 🚀 **CTO & Co-Founder** at **Fitti** — a health-tech platform (chat, video, payments)
-- ♻️ **Co-Founder** at **EcoLith** — clean-tech, converting solar panel waste into construction materials
-- 🏢 **Associate** at RIT's Centre for Innovation
-- 🛡️ Completed a **defence-sector internship** at Engine Factory Avadi (Ministry of Defence) — IIoT & industrial automation
-- 🔩 Hardware-rooted generalist: ESP32, LuckFox Pico, sensors, drones, YOLOv8, TFLite Micro — paired with full-stack web dev
-- 🔐 White-hat security orientation — responsible disclosure work, penetration testing
-- 🎯 Long-term goal: building advanced intelligent systems for **defence technology**
-- 🎨 Off the clock: photography (RAW/Lightroom/DaVinci Resolve), music production (FL Studio), streetwear & graphic design
+<a href="https://linkedin.com/in/varun-ecerit"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00f7ff"/></a>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=statuspage&logoColor=39ff14"/>
+<img src="https://komarev.com/ghpvc/?username=nyxri0f8&style=for-the-badge&color=000000&label=UPLINKS" alt="views"/>
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br/>
 
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-</p>
+```bash
+nyx@edge-node:~$ whoami --verbose
+```
+```yaml
+operator:     Varun  // handle: nyx
+class:        polymath · hardware-rooted generalist
+base:         Chennai, IN
+education:    B.E. Electronics & Communication — RIT Chennai (2024 → 2028)
+roles:
+  - CTO & Co-Founder     @ Fitti      # health-tech: chat, video, payments
+  - Co-Founder           @ EcoLith    # solar-panel waste → construction materials
+  - Associate            @ RIT Centre for Innovation
+field_ops:    Defence internship — Engine Factory Avadi (MoD) · IIoT & industrial automation
+security:     white-hat · responsible disclosure · pentesting
+mission:      build advanced intelligent systems for defence technology
+off_grid:     photography · FL Studio · streetwear & graphic design
+```
 
-**Embedded / Edge AI**
-<p>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square"/>
-<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
-<img src="https://img.shields.io/badge/LuckFox_Pico-1a1a1a?style=flat-square"/>
-</p>
+<!-- ─────────────────────────────── ARSENAL ─────────────────────────────── -->
 
-**Full-Stack / Web**
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
-</p>
+## ⟢ `ARSENAL.load()`
 
-**AI / ML**
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/PennyLane_(QML)-1a1a1a?style=flat-square"/>
-</p>
+<div align="center">
 
-**Security & Tools**
-<p>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-</p>
+| `// core` | `// edge + silicon` | `// full-stack` | `// intelligence` | `// ops + sec` |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,dart&perline=3"/> | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&perline=3"/><br/><sub>ESP32 · Luckfox Pico · TFLite Micro · MQTT</sub> | <img src="https://skillicons.dev/icons?i=react,vite,nodejs,flask,flutter,supabase,threejs&perline=4"/> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3"/><br/><sub>YOLOv8 · Gemini API · PennyLane (QML)</sub> | <img src="https://skillicons.dev/icons?i=kali,git,docker,figma&perline=2"/> |
 
----
+</div>
 
-### 🚧 Featured Builds
+<!-- ─────────────────────────────── DEPLOYED ─────────────────────────────── -->
 
-| Project | Description |
-|---|---|
-| **Fitti** | Health-tech platform — chat, video, payments (React, Vite, Supabase, TweetNaCl, WebRTC) |
-| **EcoLith** | Clean-tech venture recycling solar panel waste into construction materials |
-| **EDITH** | Jarvis-style personal AI assistant on LuckFox Pico Ultra — Gemini API, Flask server, Android HUD app |
-| **Smart Deaf Assistance Spectacle** | ESP32-CAM + YOLOv8m + FastAPI + ultrasonic haptics for accessibility |
-| **RIT-IPR** | AI-powered patent filing assistant — React, Node.js, Supabase, Gemini AI |
-| **Digital Twin Industrial Monitor** | ESP32 + MQTT + React/Three.js 3D visualization with fault injection |
-| **Spendly** | SMS-based passive expense tracker for the Indian market (Flutter, Riverpod, Hive) |
-| **1B-Parameter LLM** | Trained from scratch — cybersecurity/coding-focused roadmap |
+## ⟢ `DEPLOYED_MODULES[]`
 
----
+> Live transmissions from the lab. Click any node to jack in.
 
-### 🐍 Contribution Snake
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nyxri0f8/nyxri0f8/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-</p>
+### 👁️ [ARGUS](https://github.com/nyxri0f8/argus)
+`edge-vision` `yolo` `luckfox`
+Intelligent retail analytics — on-device YOLO vision running on a Luckfox Pico Ultra W. No cloud, no latency.
 
-> ⚙️ This animates automatically once the snake workflow is added — see setup note at the bottom.
+</td>
+<td width="50%" valign="top">
 
----
+### ☁️ [HOMECLOUD](https://github.com/nyxri0f8/homecloud)
+`self-hosted` `arm` `256MB-ram`
+A personal Google Drive on a thumb-sized Linux board — per-user accounts, quotas, reachable from anywhere.
 
-### 📊 GitHub Stats
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyxri0f8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxri0f8&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
+### ⚖️ [PRAZER](https://github.com/nyxri0f8/prazer)
+`patent-ai` `prior-art` `nlp`
+Autonomous prior-art & novelty engine — IPO/InPASS-first screening with USPTO, EPO and WIPO coverage.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxri0f8&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Langs" width="45%"/>
-</p>
+</td>
+<td valign="top">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxri0f8&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
-</p>
+### 🏔️ [RIDGE WATCH](https://github.com/nyxri0f8/ridgewatch)
+`digital-twin` `3d` `simulation`
+Team NYX's high-altitude digital twin — interactive 3D product experience + educational simulation.
 
----
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-### 🏆 Trophies
+### 💪 [FITTI](https://github.com/nyxri0f8/fitti_app)
+`startup` `e2e-encryption` `webrtc`
+Fitness, fully managed — connects clients with trainers, doctors and cooks. Encrypted chat, video, payments.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nyxri0f8&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
-</p>
+</td>
+<td valign="top">
 
----
+### 📉 [FITRACK](https://github.com/nyxri0f8/fitrack)
+`flutter` `offline-first` `brutalist`
+Android fitness tracker that builds your calorie plan, macros and weight curve from your own numbers.
 
-### 🌐 Connect
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-<p align="center">
-  <a href="https://linkedin.com/in/varun-ecerit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+### 📜 [RIT-IPR](https://github.com/nyxri0f8/RIT-IPR)
+`gemini` `react` `supabase`
+AI-powered patent filing system for Rajalakshmi Institute of Technology.
 
-<p align="center"><i>polymath — learns fast across domains, builds hands-on, ships real things.</i></p>
+</td>
+<td valign="top">
 
----
+### 🧠 [QUERYMIND](https://github.com/nyxri0f8/kiro)
+`bi` `llm` `data-viz`
+Natural-language business intelligence — ask your data questions, get charts back.
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary>⚙️ Setup notes (for you, not visible as important to visitors)</summary>
+<summary><b>⟢ <code>classified_builds --decrypt</code></b></summary>
+<br/>
 
-**Snake animation:** Add the included `snake.yml` to `.github/workflows/` in your `nyxri0f8/nyxri0f8` repo, then run it once manually from the Actions tab (or push a commit). It builds an `output` branch with the SVGs the README already points to — after that it auto-refreshes daily.
-
-**Everything else** (stats, streak, top langs, activity graph, trophies) is fully automatic — no setup needed, they pull live from your public GitHub activity.
+| Codename | Payload |
+|---|---|
+| **EDITH** | Jarvis-style assistant on Luckfox Pico Ultra — Gemini API, Flask server, Android HUD |
+| **Deaf Assist Spectacle** | ESP32-CAM + YOLOv8m + FastAPI + ultrasonic haptics |
+| **Digital Twin Monitor** | ESP32 + MQTT + React/Three.js 3D plant view with fault injection |
+| **Spendly** | Passive SMS expense tracker for India — Flutter, Riverpod, Hive |
+| **1B-param LLM** | Trained from scratch, cybersecurity/coding-focused |
+| **EcoLith** | Solar-panel waste → construction materials |
 
 </details>
+
+<!-- ─────────────────────────────── TELEMETRY ─────────────────────────────── -->
+
+## ⟢ `TELEMETRY.stream()`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nyxri0f8&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=00f7ff&icon_color=ff00e6&text_color=c9d1d9&ring_color=00f7ff" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxri0f8&hide_border=true&background=00000000&ring=00f7ff&fire=ff00e6&currStreakLabel=00f7ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxri0f8&bg_color=00000000&color=00f7ff&line=ff00e6&point=ffffff&area=true&area_color=00f7ff&hide_border=true" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/nyxri0f8/nyxri0f8/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
+
+</div>
+
+<!-- ─────────────────────────────── FOOTER ─────────────────────────────── -->
+
+```bash
+nyx@edge-node:~$ echo $PHILOSOPHY
+> learn fast across domains. build with your hands. ship real things.
+nyx@edge-node:~$ █
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:0a0f2c,100:000000&height=120&section=footer" width="100%"/>
