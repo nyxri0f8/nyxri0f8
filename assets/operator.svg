@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-label="Varun — operator profile">
+  <defs>
+    <linearGradient id="name" x1="0" x2="1">
+      <stop offset="0" stop-color="#00f7ff"/>
+      <stop offset="1" stop-color="#ff00e6"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00f7ff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00f7ff" stop-opacity=".16"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#00f7ff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#00f7ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#00f7ff" stroke-opacity=".05"/>
+    </pattern>
+    <clipPath id="frame"><rect x="10" y="10" width="880" height="340" rx="8"/></clipPath>
+  </defs>
+
+  <style>
+    text { font-family: 'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace; }
+    .lbl { font-size: 11px; letter-spacing: 2.5px; fill: #3fa9c9; }
+    .val { font-size: 13.5px; fill: #e6edf3; }
+    .dim { font-size: 11px; letter-spacing: 1.5px; fill: #5c6f86; }
+    .row { opacity: 0; animation: in .5s ease-out forwards; }
+    .r1 { animation-delay: .35s } .r2 { animation-delay: .55s } .r3 { animation-delay: .75s }
+    .r4 { animation-delay: .95s } .r5 { animation-delay: 1.15s } .r6 { animation-delay: 1.4s }
+    @keyframes in { from { opacity: 0; transform: translateX(-8px) } to { opacity: 1; transform: none } }
+    .spin { transform-origin: 140px 190px; animation: spin 14s linear infinite; }
+    .spin-r { transform-origin: 140px 190px; animation: spin 22s linear infinite reverse; }
+    @keyframes spin { to { transform: rotate(360deg) } }
+    .scan { animation: scan 4.5s ease-in-out infinite; }
+    @keyframes scan { from { transform: translateY(-80px) } to { transform: translateY(360px) } }
+    .blink { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    @keyframes pulse { 50% { opacity: .35 } }
+  </style>
+
+  <!-- chassis -->
+  <rect x="10" y="10" width="880" height="340" rx="8" fill="#05070d"/>
+  <g clip-path="url(#frame)">
+    <rect x="10" y="10" width="880" height="340" fill="url(#grid)"/>
+    <rect class="scan" x="10" y="0" width="880" height="70" fill="url(#scan)"/>
+  </g>
+  <rect x="10" y="10" width="880" height="340" rx="8" fill="none" stroke="#00f7ff" stroke-opacity=".28"/>
+  <g stroke="#00f7ff" stroke-width="2.5" fill="none">
+    <path d="M10 38V10h28"/><path d="M862 10h28v28"/><path d="M890 322v28h-28"/><path d="M38 350H10v-28"/>
+  </g>
+
+  <!-- header -->
+  <text x="32" y="40" class="dim">▸ OPERATOR.PROFILE</text>
+  <text x="868" y="40" class="dim" text-anchor="end">SYS://NYX-0F8   <tspan fill="#39ff14" class="pulse">● ONLINE</tspan></text>
+  <path d="M32 54H868" stroke="#00f7ff" stroke-opacity=".18" stroke-dasharray="2 4"/>
+
+  <!-- reticle emblem -->
+  <circle cx="140" cy="190" r="110" fill="url(#glow)"/>
+  <circle class="spin" cx="140" cy="190" r="86" fill="none" stroke="#00f7ff" stroke-width="2" stroke-dasharray="40 14 6 14" stroke-opacity=".9"/>
+  <circle class="spin-r" cx="140" cy="190" r="72" fill="none" stroke="#ff00e6" stroke-width="1.2" stroke-dasharray="3 7" stroke-opacity=".8"/>
+  <circle cx="140" cy="190" r="58" fill="#070b16" stroke="#00f7ff" stroke-opacity=".35"/>
+  <g stroke="#00f7ff" stroke-opacity=".7" stroke-width="1.5">
+    <path d="M140 92v14"/><path d="M140 274v14"/><path d="M42 190h14"/><path d="M224 190h14"/>
+  </g>
+  <text x="140" y="199" text-anchor="middle" font-size="28" font-weight="700" fill="url(#name)" letter-spacing="3">NYX</text>
+  <text x="140" y="222" text-anchor="middle" class="dim" font-size="9">polymath</text>
+
+  <!-- identity -->
+  <g class="row r1">
+    <text x="290" y="112" font-size="46" font-weight="800" fill="url(#name)" letter-spacing="6">VARUN</text>
+    <text x="292" y="140" font-size="13" fill="#9fb3c8" letter-spacing="1.5">EDGE AI · EMBEDDED SYSTEMS · FULL-STACK · DEFENCE TECH</text>
+  </g>
+
+  <g class="row r2"><text x="292" y="182" class="lbl">ROLE</text><text x="412" y="182" class="val">CTO &amp; Co-Founder @ Fitti · Co-Founder @ EcoLith</text></g>
+  <g class="row r3"><text x="292" y="208" class="lbl">EDU</text><text x="412" y="208" class="val">B.E. ECE — Rajalakshmi Institute of Technology '28</text></g>
+  <g class="row r4"><text x="292" y="234" class="lbl">FIELD OPS</text><text x="412" y="234" class="val">Defence internship — Engine Factory Avadi (MoD)</text></g>
+  <g class="row r5"><text x="292" y="260" class="lbl">MISSION</text><text x="412" y="260" class="val">Intelligent systems for defence technology</text></g>
+
+  <!-- footer chips -->
+  <g class="row r6" font-size="10.5" letter-spacing="1.5">
+    <g transform="translate(292 290)">
+      <rect width="124" height="24" rx="3" fill="#00f7ff" fill-opacity=".08" stroke="#00f7ff" stroke-opacity=".45"/>
+      <text x="62" y="16" text-anchor="middle" fill="#00f7ff">WHITE-HAT SEC</text>
+    </g>
+    <g transform="translate(426 290)">
+      <rect width="92" height="24" rx="3" fill="#ff00e6" fill-opacity=".08" stroke="#ff00e6" stroke-opacity=".45"/>
+      <text x="46" y="16" text-anchor="middle" fill="#ff7af0">CHENNAI</text>
+    </g>
+    <g transform="translate(528 290)">
+      <rect width="116" height="24" rx="3" fill="#00f7ff" fill-opacity=".08" stroke="#00f7ff" stroke-opacity=".45"/>
+      <text x="58" y="16" text-anchor="middle" fill="#00f7ff">PHOTOGRAPHY</text>
+    </g>
+    <g transform="translate(654 290)">
+      <rect width="98" height="24" rx="3" fill="#ff00e6" fill-opacity=".08" stroke="#ff00e6" stroke-opacity=".45"/>
+      <text x="49" y="16" text-anchor="middle" fill="#ff7af0">FL STUDIO</text>
+    </g>
+    <g transform="translate(762 290)">
+      <rect width="106" height="24" rx="3" fill="#00f7ff" fill-opacity=".08" stroke="#00f7ff" stroke-opacity=".45"/>
+      <text x="53" y="16" text-anchor="middle" fill="#00f7ff">STREETWEAR</text>
+    </g>
+  </g>
+
+  <text x="32" y="336" class="dim" font-size="10">&gt; learn fast across domains. build with your hands. ship real things<tspan class="blink" fill="#00f7ff">█</tspan></text>
+</svg>

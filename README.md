@@ -16,23 +16,9 @@
 
 <br/>
 
-```bash
-nyx@edge-node:~$ whoami --verbose
-```
-```yaml
-operator:     Varun  // handle: nyx
-class:        polymath · hardware-rooted generalist
-base:         Chennai, IN
-education:    B.E. Electronics & Communication — RIT Chennai (2024 → 2028)
-roles:
-  - CTO & Co-Founder     @ Fitti      # health-tech: chat, video, payments
-  - Co-Founder           @ EcoLith    # solar-panel waste → construction materials
-  - Associate            @ RIT Centre for Innovation
-field_ops:    Defence internship — Engine Factory Avadi (MoD) · IIoT & industrial automation
-security:     white-hat · responsible disclosure · pentesting
-mission:      build advanced intelligent systems for defence technology
-off_grid:     photography · FL Studio · streetwear & graphic design
-```
+<div align="center">
+  <img src="assets/operator.svg" width="100%" alt="Varun — operator profile"/>
+</div>
 
 <!-- ─────────────────────────────── ARSENAL ─────────────────────────────── -->
 
@@ -140,21 +126,17 @@ Natural-language business intelligence — ask your data questions, get charts b
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nyxri0f8&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=00f7ff&icon_color=ff00e6&text_color=c9d1d9&ring_color=00f7ff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxri0f8&hide_border=true&background=00000000&ring=00f7ff&fire=ff00e6&currStreakLabel=00f7ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" height="165"/>
+<img src="https://raw.githubusercontent.com/nyxri0f8/nyxri0f8/output/stats.svg" width="49%" alt="telemetry"/>
+<img src="https://raw.githubusercontent.com/nyxri0f8/nyxri0f8/output/langs.svg" width="49%" alt="languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxri0f8&bg_color=00000000&color=00f7ff&line=ff00e6&point=ffffff&area=true&area_color=00f7ff&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/nyxri0f8/nyxri0f8/output/activity.svg" width="100%" alt="activity"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxri0f8&hide_border=true&background=05070d&ring=00f7ff&fire=ff00e6&currStreakLabel=00f7ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" width="100%" alt="streak"/>
 
 <img src="https://raw.githubusercontent.com/nyxri0f8/nyxri0f8/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
 
 </div>
 
 <!-- ─────────────────────────────── FOOTER ─────────────────────────────── -->
-
-```bash
-nyx@edge-node:~$ echo $PHILOSOPHY
-> learn fast across domains. build with your hands. ship real things.
-nyx@edge-node:~$ █
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:0a0f2c,100:000000&height=120&section=footer" width="100%"/>
