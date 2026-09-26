@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="236" viewBox="0 0 450 236">
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace; }
+  .dim { font-size: 11px; letter-spacing: 1.5px; fill: #5c6f86; }
+  .in { opacity: 0; animation: in .6s ease-out forwards; }
+  @keyframes in { to { opacity: 1; } }
+  .grow { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow 1s ease-out forwards; }
+  @keyframes grow { to { transform: scaleX(1); } }
+  .draw { stroke-dasharray: 3000; stroke-dashoffset: 3000; animation: draw 2.2s ease-out forwards; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+</style>
+<rect x="1" y="1" width="448" height="234" rx="8" fill="#05070d" stroke="#00f7ff" stroke-opacity=".28"/>
+<g stroke="#00f7ff" stroke-width="2.5" fill="none">
+  <path d="M1 22V1h21"/><path d="M428 1h21v21"/><path d="M449 214v21h-21"/><path d="M22 235H1v-21"/>
+</g>
+<text x="22" y="30" class="dim">▸ TELEMETRY</text>
+<path d="M22 42H428" stroke="#00f7ff" stroke-opacity=".18" stroke-dasharray="2 4"/>
+<g class="in" style="animation-delay:0.00s"><rect x="22" y="58" width="196" height="48" rx="4" fill="#00f7ff" fill-opacity=".05" stroke="#00f7ff" stroke-opacity=".3"/><rect x="22" y="68" width="3" height="28" fill="#00f7ff"/><text x="38" y="77" font-size="9.5" letter-spacing="1.5" fill="#5c6f86">CONTRIBUTIONS / YR</text><text x="38" y="97" font-size="18" font-weight="700" fill="#e6edf3">64</text></g>
+<g class="in" style="animation-delay:0.15s"><rect x="228" y="58" width="196" height="48" rx="4" fill="#ff00e6" fill-opacity=".05" stroke="#ff00e6" stroke-opacity=".3"/><rect x="228" y="68" width="3" height="28" fill="#ff00e6"/><text x="244" y="77" font-size="9.5" letter-spacing="1.5" fill="#5c6f86">COMMITS</text><text x="244" y="97" font-size="18" font-weight="700" fill="#e6edf3">42</text></g>
+<g class="in" style="animation-delay:0.30s"><rect x="22" y="116" width="196" height="48" rx="4" fill="#00f7ff" fill-opacity=".05" stroke="#00f7ff" stroke-opacity=".3"/><rect x="22" y="126" width="3" height="28" fill="#00f7ff"/><text x="38" y="135" font-size="9.5" letter-spacing="1.5" fill="#5c6f86">REPOSITORIES</text><text x="38" y="155" font-size="18" font-weight="700" fill="#e6edf3">22</text></g>
+<g class="in" style="animation-delay:0.45s"><rect x="228" y="116" width="196" height="48" rx="4" fill="#00f7ff" fill-opacity=".05" stroke="#00f7ff" stroke-opacity=".3"/><rect x="228" y="126" width="3" height="28" fill="#00f7ff"/><text x="244" y="135" font-size="9.5" letter-spacing="1.5" fill="#5c6f86">ACTIVE DAYS / YR</text><text x="244" y="155" font-size="18" font-weight="700" fill="#e6edf3">16</text></g>
+<g class="in" style="animation-delay:0.60s"><rect x="22" y="174" width="196" height="48" rx="4" fill="#ff00e6" fill-opacity=".05" stroke="#ff00e6" stroke-opacity=".3"/><rect x="22" y="184" width="3" height="28" fill="#ff00e6"/><text x="38" y="193" font-size="9.5" letter-spacing="1.5" fill="#5c6f86">LANGUAGES</text><text x="38" y="213" font-size="18" font-weight="700" fill="#e6edf3">14</text></g>
+<g class="in" style="animation-delay:0.75s"><rect x="228" y="174" width="196" height="48" rx="4" fill="#00f7ff" fill-opacity=".05" stroke="#00f7ff" stroke-opacity=".3"/><rect x="228" y="184" width="3" height="28" fill="#00f7ff"/><text x="244" y="193" font-size="9.5" letter-spacing="1.5" fill="#5c6f86">PEAK DAY</text><text x="244" y="213" font-size="18" font-weight="700" fill="#e6edf3">15</text></g>
+</svg>

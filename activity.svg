@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace; }
+  .dim { font-size: 11px; letter-spacing: 1.5px; fill: #5c6f86; }
+  .in { opacity: 0; animation: in .6s ease-out forwards; }
+  @keyframes in { to { opacity: 1; } }
+  .grow { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow 1s ease-out forwards; }
+  @keyframes grow { to { transform: scaleX(1); } }
+  .draw { stroke-dasharray: 3000; stroke-dashoffset: 3000; animation: draw 2.2s ease-out forwards; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+</style>
+<rect x="1" y="1" width="898" height="248" rx="8" fill="#05070d" stroke="#00f7ff" stroke-opacity=".28"/>
+<g stroke="#00f7ff" stroke-width="2.5" fill="none">
+  <path d="M1 22V1h21"/><path d="M878 1h21v21"/><path d="M899 228v21h-21"/><path d="M22 249H1v-21"/>
+</g>
+<text x="22" y="30" class="dim">▸ ACTIVITY.WAVEFORM</text>
+<path d="M22 42H878" stroke="#00f7ff" stroke-opacity=".18" stroke-dasharray="2 4"/>
+
+<defs><linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#00f7ff" stop-opacity=".35"/><stop offset="1" stop-color="#00f7ff" stop-opacity="0"/>
+</linearGradient></defs>
+<text x="878" y="30" class="dim" text-anchor="end">27 CONTRIBUTIONS · LAST 60 DAYS</text>
+<path d="M50 212.0H878" stroke="#00f7ff" stroke-opacity=".07"/><text x="40" y="216.0" font-size="10" fill="#5c6f86" text-anchor="end">0</text><path d="M50 174.5H878" stroke="#00f7ff" stroke-opacity=".07"/><text x="40" y="178.5" font-size="10" fill="#5c6f86" text-anchor="end">4</text><path d="M50 137.0H878" stroke="#00f7ff" stroke-opacity=".07"/><text x="40" y="141.0" font-size="10" fill="#5c6f86" text-anchor="end">8</text><path d="M50 99.5H878" stroke="#00f7ff" stroke-opacity=".07"/><text x="40" y="103.5" font-size="10" fill="#5c6f86" text-anchor="end">11</text><path d="M50 62.0H878" stroke="#00f7ff" stroke-opacity=".07"/><text x="40" y="66.0" font-size="10" fill="#5c6f86" text-anchor="end">15</text><text x="50.0" y="232" font-size="10" fill="#5c6f86" text-anchor="middle">29 JUL</text><text x="190.3" y="232" font-size="10" fill="#5c6f86" text-anchor="middle">08 AUG</text><text x="330.7" y="232" font-size="10" fill="#5c6f86" text-anchor="middle">18 AUG</text><text x="471.0" y="232" font-size="10" fill="#5c6f86" text-anchor="middle">28 AUG</text><text x="611.4" y="232" font-size="10" fill="#5c6f86" text-anchor="middle">07 SEP</text><text x="751.7" y="232" font-size="10" fill="#5c6f86" text-anchor="middle">17 SEP</text>
+<polygon class="in" style="animation-delay:.6s" points="50,212 50.0,212.0 64.0,212.0 78.1,212.0 92.1,212.0 106.1,212.0 120.2,212.0 134.2,212.0 148.2,212.0 162.3,212.0 176.3,212.0 190.3,212.0 204.4,212.0 218.4,212.0 232.4,212.0 246.5,212.0 260.5,212.0 274.5,212.0 288.6,212.0 302.6,192.0 316.6,112.0 330.7,212.0 344.7,212.0 358.7,212.0 372.8,212.0 386.8,212.0 400.8,212.0 414.9,212.0 428.9,212.0 442.9,212.0 457.0,212.0 471.0,212.0 485.1,212.0 499.1,212.0 513.1,212.0 527.2,212.0 541.2,212.0 555.2,212.0 569.3,212.0 583.3,212.0 597.3,212.0 611.4,212.0 625.4,212.0 639.4,212.0 653.5,212.0 667.5,212.0 681.5,212.0 695.6,212.0 709.6,212.0 723.6,212.0 737.7,212.0 751.7,212.0 765.7,212.0 779.8,212.0 793.8,212.0 807.8,212.0 821.9,212.0 835.9,212.0 849.9,212.0 864.0,62.0 878.0,212.0 878,212" fill="url(#fill)"/>
+<polyline class="draw" points="50.0,212.0 64.0,212.0 78.1,212.0 92.1,212.0 106.1,212.0 120.2,212.0 134.2,212.0 148.2,212.0 162.3,212.0 176.3,212.0 190.3,212.0 204.4,212.0 218.4,212.0 232.4,212.0 246.5,212.0 260.5,212.0 274.5,212.0 288.6,212.0 302.6,192.0 316.6,112.0 330.7,212.0 344.7,212.0 358.7,212.0 372.8,212.0 386.8,212.0 400.8,212.0 414.9,212.0 428.9,212.0 442.9,212.0 457.0,212.0 471.0,212.0 485.1,212.0 499.1,212.0 513.1,212.0 527.2,212.0 541.2,212.0 555.2,212.0 569.3,212.0 583.3,212.0 597.3,212.0 611.4,212.0 625.4,212.0 639.4,212.0 653.5,212.0 667.5,212.0 681.5,212.0 695.6,212.0 709.6,212.0 723.6,212.0 737.7,212.0 751.7,212.0 765.7,212.0 779.8,212.0 793.8,212.0 807.8,212.0 821.9,212.0 835.9,212.0 849.9,212.0 864.0,62.0 878.0,212.0" fill="none" stroke="#00f7ff" stroke-width="2" stroke-linejoin="round"/>
+<g class="in" style="animation-delay:1.6s"><circle cx="302.6" cy="192.0" r="2.6" fill="#ff00e6"/><circle cx="316.6" cy="112.0" r="2.6" fill="#ff00e6"/><circle cx="864.0" cy="62.0" r="2.6" fill="#ff00e6"/></g>
+
+</svg>
