@@ -8,9 +8,16 @@
 
 <br/>
 
+<a href="https://varun-portfolio-lac.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00f7ff"/></a>
 <a href="https://linkedin.com/in/varun-ecerit"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00f7ff"/></a>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=statuspage&logoColor=39ff14"/>
 <img src="https://komarev.com/ghpvc/?username=nyxri0f8&style=for-the-badge&color=000000&label=UPLINKS" alt="views"/>
+
+</div>
+
+<div align="center">
+
+**▶ [`varun-portfolio-lac.vercel.app`](https://varun-portfolio-lac.vercel.app)** — scroll-animated portfolio film · scroll to play
 
 </div>
 
